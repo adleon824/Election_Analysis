@@ -6,7 +6,7 @@ The purpose of the Election_Analysis project is to help a mock Colorado Board of
 
 
 Election Audit Results
-  >Election Results
+
 -------------------------
   >Total Votes: 369,711
 ------------------------
